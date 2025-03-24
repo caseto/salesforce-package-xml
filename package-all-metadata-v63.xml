@@ -850,10 +850,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>EntityImplements</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>EscalationRules</name>
     </types>
     <!-- ** Covered in Settings
@@ -1272,6 +1268,10 @@
     <types>
         <members>*</members>
         <name>MilestoneType</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>MktCalcInsightObjectDef</name>
     </types>
     <types>
         <members>*</members>
@@ -1737,6 +1737,12 @@
         <members>*</members>
         <name>Settings</name>
     </types>
+<!-- ** Covered in Settings
+    <types>
+        <members>*</members>
+        <name>ServiceCloudVoiceSettings</name>
+    </types>
+-->    
     <types>
         <members>*</members>
         <name>ServicePresenceStatus</name>
